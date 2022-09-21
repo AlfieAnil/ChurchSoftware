@@ -1,0 +1,19 @@
+ - make sure that the bookings don't overlap (Done)
+
+ - the system has to check everytime if there are children who are over the age limit now
+
+ - when viewing an individual, instead of using a frame, you can have a listbox, which displays the information (Done)
+
+ - Delete Family Option (deletes the family record, but not the family members), family must contain no members before being deleted
+
+ - for each time a role is inserted / display, make sure to check that the role exists, otherwise there will be an error
+
+ - add being able to search by role
+
+ - set searches to default to name instead of defaulting to memberid
+
+ - Check for duplicate group names before accepting the group name
+
+ - Maybe add search by clergy member for the sacraments
+
+ - Lock all of the fields if 'Edit' level person accesses
